@@ -3,30 +3,60 @@
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
-        "productPrice":
+        "productPrice": ""
     },
     {
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
-        "productPrice":
+        "productPrice": ""
     },
     {
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
-        "productPrice":
+        "productPrice": ""
     },
     {
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
-        "productPrice":
+        "productPrice": ""
     },
     {
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
-        "productPrice":
+        "productPrice": ""
+    },
+    {
+        "productPic": "./assets/images/image2.jpeg",
+        "productType": "dog",
+        "productDesc": "",
+        "productPrice": ""
+    },
+    {
+        "productPic": "./assets/images/image2.jpeg",
+        "productType": "dog",
+        "productDesc": "",
+        "productPrice": ""
+    },
+    {
+        "productPic": "./assets/images/image2.jpeg",
+        "productType": "dog",
+        "productDesc": "",
+        "productPrice": ""
+    },
+    {
+        "productPic": "./assets/images/dog.JPG",
+        "productType": "fish",
+        "productDesc": "",
+        "productPrice": ""
+    },
+    {
+        "productPic": "./assets/images/dog.JPG",
+        "productType": "hamster",
+        "productDesc": "",
+        "productPrice": ""
     }
 ]
