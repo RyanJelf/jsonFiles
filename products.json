@@ -3,35 +3,80 @@
         "ProductId" :"1",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
-        "productDesc": "",
-        "productPrice":
+        "productTitle": "Cat food 3 months +",
+        "productDesc": "This cat food is the perfect food for kittens.",
+        "productPrice": 4
     },
     {
         "ProductId" :"2",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
-        "productDesc": "",
-        "productPrice":
+        "productTitle": "Spinner Toy",
+        "productDesc": "the perfect toy for your cat to chase",
+        "productPrice": 5
     },
     {
         "ProductId" :"3",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
-        "productDesc": "",
-        "productPrice":
+        "productTitle": "Laser Pen",
+        "productDesc": "endless hours of fun for cats!",
+        "productPrice": 1.5
     },
     {
         "ProductId" :"4",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
-        "productDesc": "",
-        "productPrice":
+        "productTitle": "Dreamies treats",
+        "productDesc": "Dreamies are a cats best friend",
+        "productPrice": 1
     },
     {
         "ProductId" :"5",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
-        "productDesc": "",
-        "productPrice":
+        "productTitle": "cat milk",
+        "productDesc": "milk that your cat can drink without upsetting their digestive system",
+        "productPrice": 1
+    },
+    {
+        "ProductId" :"6",
+        "productPic": "./assets/images/image2.jpeg",
+        "productType": "dog",
+        "productTitle": "Bonios",
+        "productDesc": "the classic dog biscuit",
+        "productPrice": 3
+    },
+    {
+        "ProductId" :"6",
+        "productPic": "./assets/images/image2.jpeg",
+        "productType": "dog",
+        "productTitle": "Denta Stick",
+        "productDesc": "denta sticks to keep your pooches teeth clean",
+        "productPrice": 2
+    },
+    {
+        "ProductId" :"7",
+        "productPic": "./assets/images/image2.jpeg",
+        "productType": "dog",
+        "productTitle": "Pedigree Chum",
+        "productDesc": "dog food on a budget",
+        "productPrice": 3
+    },
+    {
+        "ProductId" :"8",
+        "productPic": "./assets/images/dog.JPG",
+        "productType": "fish",
+        "productTitle": "Fish Flakes",
+        "productDesc": "fish flakes for temperate and tropical fish alike",
+        "productPrice": 2.99
+    },
+    {
+        "ProductId" :"9",
+        "productPic": "./assets/images/dog.JPG",
+        "productType": "hamster",
+        "productTitle": "Sawdust",
+        "productDesc": "Keep your hamster cage clean with sawdust!",
+        "productPrice": 5
     }
 ]
