@@ -1,29 +1,34 @@
 [
     {
+        "ProductId" :"1",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
         "productPrice":
     },
     {
+        "ProductId" :"2",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
         "productPrice":
     },
     {
+        "ProductId" :"3",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
         "productPrice":
     },
     {
+        "ProductId" :"4",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
         "productPrice":
     },
     {
+        "ProductId" :"5",
         "productPic": "./assets/images/image1.jpeg",
         "productType": "cat",
         "productDesc": "",
