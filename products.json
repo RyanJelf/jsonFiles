@@ -7,7 +7,7 @@
 			"Type": "cat",
 			"Title": "Cat food 3 months+",
 			"Desc": "This cat food is the perfect food for kittens.",
-			"Price": "4"
+			"Price": "£4"
 		},
 		{
 			"Id": "2",
@@ -15,7 +15,7 @@
 			"Type": "cat",
 			"Title": "Spinner Toy",
 			"Desc": "the perfect toy for your cat to chase",
-			"Price": "5"
+			"Price": "£5"
 		},
 		{
 			"Id": "3",
@@ -23,7 +23,7 @@
 			"Type": "cat",
 			"Title": "Dreamies treats",
 			"Desc": "Dreamies are a cats best friend",
-			"Price": "1"
+			"Price": "£1"
 		},
 		{
 			"Id": "4",
@@ -31,7 +31,7 @@
 			"Type": "cat",
 			"Title": "cat milk",
 			"Desc": "milk that your cat can drink without upsetting their digestive system",
-			"Price": "1"
+			"Price": "£1"
 		},
 		{
 			"Id": "5",
@@ -39,7 +39,7 @@
 			"Type": "dog",
 			"Title": "Bonios",
 			"Desc": "the classic dog biscuit",
-			"Price": "3"
+			"Price": "£3"
 		},
 		{
 			"Id": "6",
@@ -47,7 +47,7 @@
 			"Type": "dog",
 			"Title": "Denta Stick",
 			"Desc": "denta sticks to keep your pooches teeth clean",
-			"Price": "2"
+			"Price": "£2"
 		},
 		{
 			"Id": "7",
@@ -55,7 +55,7 @@
 			"Type": "dog",
 			"Title": "Pedigree Chum",
 			"Desc": "dog food on a budget",
-			"Price": "3"
+			"Price": "£3"
 		}
 
 	]
