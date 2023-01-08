@@ -3,7 +3,7 @@
 
 		{
 			"Id": "1",
-			"Pic": "./images/products.JPG",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/catFood.webp",
 			"Type": "cat",
 			"Title": "Cat food 3 months+",
 			"Desc": "This cat food is the perfect food for kittens.",
@@ -11,7 +11,7 @@
 		},
 		{
 			"Id": "2",
-			"Pic": "./images/image1.jpeg",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/catSpinner.jpg",
 			"Type": "cat",
 			"Title": "Spinner Toy",
 			"Desc": "the perfect toy for your cat to chase",
@@ -19,7 +19,7 @@
 		},
 		{
 			"Id": "3",
-			"Pic": "./images/image1.jpeg",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/dreamies.jpeg",
 			"Type": "cat",
 			"Title": "Dreamies treats",
 			"Desc": "Dreamies are a cats best friend",
@@ -27,7 +27,7 @@
 		},
 		{
 			"Id": "4",
-			"Pic": "./images/image1.jpeg",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/catmilk.jpg",
 			"Type": "cat",
 			"Title": "cat milk",
 			"Desc": "milk that your cat can drink without upsetting their digestive system",
@@ -35,7 +35,7 @@
 		},
 		{
 			"Id": "5",
-			"Pic": "./images/image2.jpeg",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/bonio.jpg",
 			"Type": "dog",
 			"Title": "Bonios",
 			"Desc": "the classic dog biscuit",
@@ -43,7 +43,7 @@
 		},
 		{
 			"Id": "6",
-			"Pic": "./images/image2.jpeg",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/dentastick.jpg",
 			"Type": "dog",
 			"Title": "Denta Stick",
 			"Desc": "denta sticks to keep your pooches teeth clean",
@@ -51,7 +51,7 @@
 		},
 		{
 			"Id": "7",
-			"Pic": "./images/image2.jpeg",
+			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/pedigree.webp",
 			"Type": "dog",
 			"Title": "Pedigree Chum",
 			"Desc": "dog food on a budget",
