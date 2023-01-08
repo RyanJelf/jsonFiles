@@ -3,18 +3,60 @@
 
 		{
 			"Id": "1",
-			"pic": "https://ryanjelf.github.io/jsonFiles/images/products/catFood.webp",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/winston.jpg",
 			"name": "Winston",
-			"age": "3",
+			"age": "1",
 			"bio": "I want an adult only home without any visiting children due to my lack in confidence that makes me react when I feel uneasy and insecure and also someone who will respect that I guard my items such as my bed and food."
 		},
 				{
 			"Id": "2",
-			"pic": "https://ryanjelf.github.io/jsonFiles/images/products/catFood.webp",
-			"name": "Jenny",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/diesel.jpg",
+			"name": "Diesel",
+			"age": "5",
+			"bio": "Don't let my pose intimidate you! I am a happy little boy once I trust you and do love my cuddles and sofa time, so squeeze on over!"
+		},
+						{
+			"Id": "3",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/harvey.jpg",
+			"name": "Harvey",
+			"age": "3",
+			"bio": "The world seems very large and unsure for me! A nice quiet home for me to settle into would be great and with a patient owner who will help build my confidence and sociability around new people and other animals. I am getting there but things are a little daunting still. "
+		},
+						{
+			"Id": "4",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/lana.jpg",
+			"name": "Lana",
+			"age": "2",
+			"bio": "I am a very clever girl and enjoy learning new things. I have already been told I have a great recall and would love someone to continue this training with me- preferably in a secure area. I will need to stay on lead whilst walking, just in case I get a bit worried by something."
+		},
+						{
+			"Id": "5",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/chief.jpg",
+			"name": "Chief",
 			"age": "8",
-			"bio": "I want an adult only home without any visiting children due to my lack in confidence that makes me react when I feel uneasy and insecure and also someone who will respect that I guard my items such as my bed and food."
-		}
+			"bio": " I am a superstar here at the Centre, and love greeting new people with my big smile and waggy tail!  I have been keeping the reception staff company in the afternoons, helping them to meet and greet new people visiting the centre. However it's a tough job so when I'm not doing that,  I am snoozing the time away on my lovely warm bed or giving cuddles to all of the staff. "
+		},
+						{
+			"Id": "6",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/lassie.jpg",
+			"name": "Lassie",
+			"age": "12",
+			"bio": "I adore my tennis balls and footballs so someone with a love of playing and training would be ideal, along with regular daily walks. I also enjoy a good doggy puzzle or interactive game!"
+		},
+						{
+			"Id": "7",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/lennie.jpg",
+			"name": "Lennie",
+			"age": "1",
+			"bio": "I am a bit of a clown and will definitely keep you entertained, I am still a big puppy so would be too boisterous and bouncy to live with children, therefore an adult only home is what I am looking for. I adore attention, am very affectionate and will be very loyal to my new owner(s)."
+		},
+						{
+			"Id": "8",
+			"pic": "https://ryanjelf.github.io/jsonFiles/images/shia.jpg",
+			"name": "Shia",
+			"age": "5",
+			"bio": " I’m a friendly boy so I just love meeting new dogs only trouble is I can get a bit excited and jump all over them so I do need to continue learning about doggy etiquette. I can be a little more nervous when meeting humans, so do need time and patience to help with my confidence building."
+		},
 
 	]
 }
