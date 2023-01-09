@@ -14,7 +14,7 @@
 			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/catSpinner.jpg",
 			"Type": "cat",
 			"Title": "Spinner Toy",
-			"Desc": "the perfect toy for your cat to chase",
+			"Desc": "The perfect toy for your cat to chase! When purchasing this product, 10% of the price will be donated to Sherlock Rescue. ",
 			"Price": "£5"
 		},
 		{
@@ -30,7 +30,7 @@
 			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/catmilk.jpg",
 			"Type": "cat",
 			"Title": "cat milk",
-			"Desc": "milk that your cat can drink without upsetting their digestive system",
+			"Desc": "milk that your cat can drink without upsetting their digestive system. When purchasing this product, 10% of the price will be donated to Sherlock Rescue.",
 			"Price": "£1"
 		},
 		{
@@ -38,7 +38,7 @@
 			"Pic": "https://ryanjelf.github.io/jsonFiles/images/products/bonio.jpg",
 			"Type": "dog",
 			"Title": "Bonios",
-			"Desc": "the classic dog biscuit",
+			"Desc": "the classic dog biscuit. When purchasing this product, 10% of the price will be donated to Sherlock Rescue.",
 			"Price": "£3"
 		},
 		{
